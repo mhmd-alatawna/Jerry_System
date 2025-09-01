@@ -92,7 +92,3 @@ The menu is designed so that options are easy to follow and learn, and all opera
 * **Generic ADTs**: Reusable containers via function pointers (`copy`, `free`, `print`, `equals`) keep the code modular and testable.
 * **Efficiency**: Heavy use of appropriate data structures (hash tables, linked lists) provides fast lookups and updates.
 * **Robustness**: Input handling and cleanup paths aim to keep the system stable; resources are freed on exit to avoid leaks.
-
-## License
-
-Add your preferred license here.
